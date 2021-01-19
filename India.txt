@@ -1,2 +1,5 @@
-India is my country!. we all are indians
-
+<<<<<<< HEAD
+India is my country. we all are indians
+=======
+India is my country!
+>>>>>>> 97628ff26b273af353d1d960c62731870f27bed9
